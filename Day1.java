@@ -3,7 +3,7 @@ package basics;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Basics {
+public class Day1 {
 
 	public static void main(String[] args) {
 
